@@ -1,5 +1,6 @@
 import localFont from 'next/font/local'
 import clsx from 'clsx'
+import Head from 'next/head'
 
 import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
@@ -43,6 +44,15 @@ export const metadata = {
     default: 'Hope for Justice Design',
   },
   description: 'Hope for Justice brand guide.',
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: false,
+    },
+  },
 }
 
 export default function RootLayout({ children }) {
@@ -57,6 +67,10 @@ export default function RootLayout({ children }) {
       )}
       suppressHydrationWarning
     >
+      <Head>
+        <meta name="robots" content="noindex, nofollow" />
+        <meta name="googlebot" content="noindex, nofollow" />
+      </Head>
       <body className="flex min-h-full bg-white">
         <Providers>
           <Layout>{children}</Layout>
