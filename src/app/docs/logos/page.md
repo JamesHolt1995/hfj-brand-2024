@@ -11,7 +11,7 @@ nextjs:
 Our symbol is the embodiment of bringing freedom from modern slavery. The sustaining hope and optimism that we can and will live in a better world.
 
 
-{% button href="#" className="mt-1 inline-block leading-none" %}Download logos{% /button %}
+{% button href="https://hopeforjustice.org/wp-content/uploads/2024/06/Hope-for-Justice-Logos.zip" className="mt-1 inline-block leading-none" %}Download logos{% /button %}
 
 &nbsp;
 

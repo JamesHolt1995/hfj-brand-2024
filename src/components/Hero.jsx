@@ -30,7 +30,9 @@ export function Hero() {
                 Learn how to use the Hope for Justice brand.
               </p>
               <div className="mt-8 flex gap-4 md:justify-center lg:justify-start">
-                <Button href="/">Download logo assets</Button>
+                <Button href="https://hopeforjustice.org/wp-content/uploads/2024/06/Hope-for-Justice-Logos.zip">
+                  Download logo assets
+                </Button>
                 {/* <Button href="/" variant="secondary">
                   Secondary button
                 </Button> */}
