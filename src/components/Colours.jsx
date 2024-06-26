@@ -4,10 +4,10 @@ import React, { useState } from 'react'
 
 const colours = {
   'Hope for Justice Red': {
-    Primary: '#D21220',
-    'Tint 1': '#E8888F',
-    'Tint 2': '#F3C3C7',
-    'Tint 3': '#FAE6E8',
+    Primary: '#d6001c',
+    'Tint 1': '#de3d52',
+    'Tint 2': '#e57a88',
+    'Tint 3': '#edb7be',
   },
   'Hope for Justice Yellow': {
     Primary: '#F79429',
@@ -16,9 +16,9 @@ const colours = {
     'Tint 3': '#FFF5E0',
   },
   'Hope for Justice Black': {
-    Primary: '#212322',
-    'Tint 1': '#404040',
-    'Tint 2': '#A3A3A3',
+    Primary: '#1c2122',
+    'Tint 1': '#646768',
+    'Tint 2': '#acaeae',
     'Tint 3': '#FAFAFA',
   },
 }
