@@ -14,14 +14,10 @@ the organisation and
 the way we go about
 delivering on our mission.
 
-1. **We want to live in a world
-   free from slavery.**
-2. **We believe freedom
-   is worth the fight.**
-3. **We believe justice is
-   non-negotiable.**
-4. **We refuse to abandon the
-   least, the last and the lost.**
+1. **Our vision is to live in a world free from slavery.**
+2. **We believe freedom is worth the fight.**
+3. **We believe justice is non-negotiable.**
+4. **We believe that awareness must lead to action.**
 5. **We believe we can be
    the generation to end
    human trafficking.**
