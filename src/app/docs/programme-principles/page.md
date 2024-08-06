@@ -33,7 +33,7 @@ institutional structures and social norms, at all levels of society.
 ## Principle 4: Collaborative
 
 We work in collaboration with partners to reach more people affected
-by slavery. Working in partnership allows us to better support locallyled
+by slavery. Working in partnership allows us to better support locally led
 initiatives, achieve better value for money, learn from partners,
 maintain operational agility, access diverse resources, and influence
 wider change through networks and collective advocacy.
