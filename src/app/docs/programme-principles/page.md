@@ -10,10 +10,7 @@ nextjs:
 
 ## Principle 1: Human Rights-based
 
-We protect and promote human rights as codified in international human
-rights instruments, in all aspects of our work. We empower vulnerable
-people, victims, and survivors of slavery to realise their human rights and
-hold duty-bearers such as governments and businesses accountable.
+We protect and promote human rights as codified in international human rights instruments, in all aspects of our work. We empower victims, survivors and people put at risk of modern slavery to realise their human rights. We hold duty-bearers, such as governments and businesses, accountable.
 
 ## Principle 2: Person-centred & Community-based
 
