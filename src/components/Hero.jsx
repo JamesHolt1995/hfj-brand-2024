@@ -40,12 +40,15 @@ export function Hero() {
             </div>
           </div>
           <div className="lg:col-span-1">
-            <Vimeo
-              video="957607096"
-              width="auto"
-              height="auto"
-              className="aspect-video w-full overflow-hidden rounded-xl bg-neutral-600 [&>iframe]:h-full [&>iframe]:w-full"
-            />
+            <iframe
+              className="aspect-video w-full overflow-hidden rounded-xl bg-neutral-600"
+              src="https://www.youtube.com/embed/PwMTSZ752rw?si=urc1-eN-hCk8Ozza"
+              title="YouTube video player"
+              frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin"
+              allowfullscreen
+            ></iframe>
           </div>
         </div>
       </div>
